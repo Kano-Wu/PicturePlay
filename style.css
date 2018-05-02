@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+ul {
+
+}
+
+ul li {
+	display: inline;
+}
+
+ul li img {
+	border: solid 1px gray;
+	opacity: 0.5;
+}
+
+ul .active img {
+	opacity: 1;
+}
